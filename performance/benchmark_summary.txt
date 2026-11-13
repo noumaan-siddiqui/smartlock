@@ -1,0 +1,7 @@
+CS3002 Assignment 2 - Part D Benchmark Summary
+Handshake v1: 0.322002 +/- 0.221173 ms
+Handshake v2: 1.17486 +/- 0.183935 ms
+Overhead v1: 16 bytes, Latency: 1.09885 us
+Overhead v2: 24 bytes, Latency: 1.06144 us
+Throughput v1: 592.426 +/- 105.411 MB/s
+Throughput v2: 679.874 +/- 86.4691 MB/s
