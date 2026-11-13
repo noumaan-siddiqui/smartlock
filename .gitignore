@@ -1,0 +1,28 @@
+# Compiled binaries and objects
+*.o
+*.obj
+*.exe
+lock_server
+hub_client
+instance_generator
+lock_server2
+hub_client2
+test_securelink2
+taska1
+taska2
+taska3
+taska4
+taska5
+
+# Generated instance and evidence captures
+instance.txt
+*.pcap
+*.pcapng
+
+# OS / Editor artifacts
+desktop.ini
+Desktop.ini
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
